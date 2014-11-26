@@ -74,13 +74,13 @@ IsLocked=0
 Fixed_Width=0
 Fixed_Height=0
 GPType=-1
-BlockFlag=1331
+BlockFlag=1349
 ZAFMode=1
 ConceptBlockName=循环经济
 UnitStr=所有市场
 IsCurrent=1
 LineSelMode=0
-ZSBlockName=巨潮服务
+ZSBlockName=大数据i
 [STEP3]
 SplitWhich=1
 UnitType=HQ_UNIT

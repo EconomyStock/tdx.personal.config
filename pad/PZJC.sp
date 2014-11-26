@@ -1,7 +1,7 @@
 [DEAFULTGP]
 Name=盘中监测
 CmdNum=10
-GPSetCode_Code1=0_000001
+GPSetCode_Code1=0_000428
 GPSetCode_Code2=1_600801
 GPSetCode_Code3=1_600802
 GPSetCode_Code4=1_600803
@@ -38,7 +38,7 @@ IsLocked=0
 Fixed_Width=0
 Fixed_Height=0
 GPType=-1
-BlockFlag=1
+BlockFlag=0
 ZAFMode=0
 UnitStr=所有市场
 IsCurrent=1
@@ -54,7 +54,7 @@ ShowGpNo=1
 IsLocked=0
 Fixed_Width=0
 Fixed_Height=0
-InitShowNum=420
+InitShowNum=219
 FxtYAxisEmpty=0
 WndNum=5
 FXPeriod=5
