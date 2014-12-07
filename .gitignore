@@ -6,17 +6,6 @@
 # Folders
 _obj
 _test
-cache
-cw_cache
-ds_cache
-hq_cache
-info_cache
-iw_cache
-sd_cache
-tmp
-wt_cache
-xml_cache
-zst_cache
 
 # Architecture specific extensions/prefixes
 *.[568vq]
@@ -34,8 +23,18 @@ _testmain.go
 *.exe~
 *.test
 
-*.sublime-project
-*.sublime-workspace
 
-app-local.conf
-app-skytap.conf
+cache
+cw_cache
+ds_cache
+hq_cache
+info_cache
+iw_cache
+sd_cache
+tmp
+wt_cache
+xml_cache
+zst_cache
+gs_bak
+user.ini
+recentgp.dat
