@@ -1,7 +1,7 @@
 [DEAFULTGP]
 Name=≈Ã÷–º‡≤‚
 CmdNum=10
-GPSetCode_Code1=1_600325
+GPSetCode_Code1=1_600185
 GPSetCode_Code2=1_600801
 GPSetCode_Code3=1_600802
 GPSetCode_Code4=1_600803
