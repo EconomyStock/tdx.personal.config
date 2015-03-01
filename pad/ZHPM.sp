@@ -27,6 +27,7 @@ RelType=0
 AutoSize=0
 AutoFitMode=0
 UserPadFlag=0
+UnSizeMode=0
 [STEP0]
 SplitWhich=-1
 UnitType=ZHSORT_UNIT
