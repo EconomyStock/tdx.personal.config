@@ -7,7 +7,7 @@ CmdNum=8
 IsFixed=0
 GPINDEX_VAR3=160
 GPINDEX_VAR4=170
-GPSetCode_Code1=0_000004
+GPSetCode_Code1=1_600109
 GPSetCode_Code2=1_600821
 GPSetCode_Code3=1_600822
 GPSetCode_Code4=1_600823
@@ -115,7 +115,7 @@ FxtExpIndex=
 Formula04=换手率
 Formula05=股神风警缠论
 GPType=-1
-BlockFlag=38
+BlockFlag=1
 ZAFMode=0
 LineSelMode=0
 [STEP4]
